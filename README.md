@@ -1,21 +1,21 @@
 <div align="center">
-<img src="https://giphy.com/stickers/pudgypenguins-data-code-coding-x4unLoM3hApc2Cw5kO" align="center" style="width: 100%" />
+<img src="https://media.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif?cid=790b761165eu9lrofi8k5opmi60u25jiyokc18gocwd57gnb&ep=v1_stickers_search&rid=giphy.gif&ct=s" align="center" style="width: 20%" />
 </div>  
   
 
-### <div align="center">I'm Luis, a Python developer 👨‍💻 I solve problems in a unique and fun way. 🚀</div>  
+### <div align="center">I'm Luis, a Python developer 👨‍💻 I solve problems in a unique and fun way 🚀</div>  
   
 
 - 🔭 I’m currently working on   
   
 
-- 🌱 I’m constantly learning data science  
+- 🌱 I’m constantly learning data science.
   
 
 - 🧠 If you can imagine it, you can code it.  
   
 
-- 🗣️ Language proficiency: English (Advanced), Spanish (Native language)  
+- 🗣️ Language proficiency: English (Advanced), Spanish (Native language).
   
 
 <br/>  
